@@ -24,7 +24,7 @@ Ported from the ds-lesson-starters repository [here](https://github.com/learn-co
 This lesson introduces how to create tables and insert data into sqlite databases. 
 
 #### Topic:
-Using SQL and SQL syntax with pandas
+Creating sql tables and inserting data.   
 
 #### Learn.co material:
 [Database Admin 101](https://github.com/learn-co-curriculum/dsc-database-admin-101)  
